@@ -1,7 +1,6 @@
 # Concurrent Traffic Simulation
-
+A multithreaded traffic simulator using a real urban map. Running each vehicle on a separate thread, and manage intersections to facilitate traffic flow and avoid collisions.
 <img src="data/traffic_simulation.gif"/>
-
 This is my 4th project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
 
 
