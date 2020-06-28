@@ -28,5 +28,9 @@ private:
     double _length;                                    // length of this street in m
     std::shared_ptr<Intersection> _interIn, _interOut; // intersections from which a vehicle can enter (one-way streets is always from 'in' to 'out')
 };
+//                                                                                                                                          
+//
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #endif
